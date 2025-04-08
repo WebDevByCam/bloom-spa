@@ -410,11 +410,6 @@ body {
 
 /* Responsividad para la sección parallax */
 @media (max-width: 700px) {
-  .parallax-section {
-      padding: 40px 0; 
-      height: 150vh;
-  }
-
   .parallax-content {
       padding: 10px; 
   }
