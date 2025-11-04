@@ -19,7 +19,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/hero.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/hero.JPG');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -333,7 +333,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/hero2.JPG');
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/hero2.JPG');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
